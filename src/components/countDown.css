@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    background-image: url("https://e1.pxfuel.com/desktop-wallpaper/540/390/desktop-wallpaper-sand-clock-group-sand-timer.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-size: cover;
+}
+#heading{
+    font-size: 5em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+#inputBox {
+    margin-top: 5%;
+}
+
+input {
+    height: 80px;
+    width: 80px;
+    margin: 5px;
+    border: 5px solid gold;
+    border-radius: 50%;
+    font-size: 2rem;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+#DispTime {
+    font-size: 5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+.smaller-text {
+    font-size: 0.8em;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+}
